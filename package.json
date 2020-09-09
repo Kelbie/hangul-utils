@@ -1,0 +1,8 @@
+{
+  "name": "hangul-utils",
+  "version": "0.0.1",
+  "description": "A very small library for dealing with Hangul in JavaScript",
+  "main": "index.js",
+  "author": "Kevin Kelbie (https://kelbie.dev)",
+  "license": "MIT"
+}
